@@ -32,7 +32,7 @@
 * 噗　浪: [★★★ Will 保哥的噗浪 ★★★](http://www.plurk.com/willh/invite)
 
 
-Original：
+`Original：`
 ------
 30 天精通 Git 版本控管
 ====================
